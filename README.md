@@ -7,3 +7,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # Now I gonna import "word_tokenize" and put my text inside, it will return me every token from my text
 # In nltk You must try different optins because it have many algorithms and possibilities to customise, instead spacy figure out the best algorithm
 # Then I go back to spacy and put some text to tekenize every word I also check types of every object I have 
+# And check if spacy recognize type of word np. 'John' in not 'num' but if i tape '2' it sees that it is 'num' also '$' it sees that it is currency
