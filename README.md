@@ -12,3 +12,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # I gonna load text with informations of students and change it into one text, I want to extract only emails of students from this text
 # So I put text into nlp object and create empty list for emils, then I start for loop on my text and I set condition 
 # If token is en eamil put it into email list, It succesfully extract emails
+# Now I gonna put text in Spanish and print specific tokens from text, let`s see if it work, it also gonna print explanation 
