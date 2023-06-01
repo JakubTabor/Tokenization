@@ -11,4 +11,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # Now I gonna check types of every word in my text, so first it print token, then some types np. 'is_alpha, is_punct'
 # I gonna load text with informations of students and change it into one text, I want to extract only emails of students from this text
 # So I put text into nlp object and create empty list for emils, then I start for loop on my text and I set condition 
-# if token is en eamil
+# If token is en eamil put it into email list, It succesfully extract emails
