@@ -9,3 +9,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # Then I go back to spacy and put some text to tekenize every word I also check types of every object I have 
 # And check if spacy recognize type of word np. 'John' in not 'num' but if i tape '2' it sees that it is 'num' also '$' it sees that it is currency
 # Now I gonna check types of every word in my text, so first it print token, then some types np. 'is_alpha, is_punct'
+# I gonna load text with informations of students and change it into one text, I want to extract only emails of students from this text
