@@ -17,3 +17,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # I Can also check if spacy can explain an figure out words in Japanese so I load blank model in japanese
 # Spacy was able to figure out what japanese symbols means with a simple blank pipeline and explanation is pretty good
 # Now I gonna play with slang words, so I load blank model in english
+# I put into nlp object word "gimme" which has two parts "give and me" Now I gonna walk through my phrase using list comprehension 
