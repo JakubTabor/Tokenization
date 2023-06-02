@@ -22,3 +22,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # I cant create new word from that i given, so I gonna use what I have "gim and me"
 # Then I put phrase once again into my spacy model and walk through each token using list comprehension
 # Now with "special case" it devide one word into two 
+# I gonna add into my pipeline "sentencizer" which help to split paragraph sentence without requirement of loading a statistical model
