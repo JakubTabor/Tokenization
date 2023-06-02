@@ -16,3 +16,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # When i load Spanish model spacy was able to figure out every word in different language and explain meaning of words
 # I Can also check if spacy can explain an figure out words in Japanese so I load blank model in japanese
 # Spacy was able to figure out what japanese symbols means with a simple blank pipeline and explanation is pretty good
+# Now I gonna play with slang words, so I load blank model in english
