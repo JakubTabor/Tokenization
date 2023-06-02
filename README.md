@@ -21,3 +21,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # Now from spacy.symbols I gonna import "ORTH" and using "add special case" I gonna divade my phrase into two words 
 # I cant create new word from that i given, so I gonna use what I have "gim and me"
 # Then I put phrase once again into my spacy model and walk through each token using list comprehension
+# Now with "special case" it devide one word into two 
