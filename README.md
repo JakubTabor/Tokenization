@@ -14,4 +14,5 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # If token is en eamil put it into email list, It succesfully extract emails
 # Now I gonna put text in Spanish and print specific tokens from text, let`s see if it work, it also gonna print explanation 
 # When i load Spanish model spacy was able to figure out every word in different language and explain meaning of words
-# I Can also check if spacy can explain an figure out words in Japanese
+# I Can also check if spacy can explain an figure out words in Japanese so I load blank model in japanese
+# Spacy was able to figure out what japanese symbols means with a simple blank pipeline and explanation is pretty good
