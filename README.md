@@ -25,3 +25,4 @@ Here I gonna make some operations on text and test posibilities of my NLP model
 # I gonna add into my pipeline "sentencizer" which help to split paragraph sentence without requirement of loading a statistical model
 # Then I put a sentences into my nlp object and make for loop on it printing each sentence with help of splitting paragraph
 # Then I gonna do some operations on text using blank english model, the tasc of my model will be to extract websites from given text
+# I put text into nlp object then instea of for loop I put conition "token.like_url" into list, it will return me every url
